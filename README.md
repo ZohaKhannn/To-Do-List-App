@@ -4,7 +4,7 @@ A simple to-do list web app built with HTML, CSS, and JavaScript, with a custom 
 
 ## Features
 - Add new tasks to the list
-- Mark tasks as complete
+- Mark tasks as complete (checkbox + strikethrough)
 - Delete tasks
 - Custom animated theme toggle switch (light/dark mode)
 - Custom SVG icon on the "Add" button
@@ -16,6 +16,9 @@ A simple to-do list web app built with HTML, CSS, and JavaScript, with a custom 
 
 ## What I learned / what was tricky
 Building the custom toggle animation, handling task state in JS, structuring CS was bit harder for me as it was my first project.
+
+## Live demo
+https://zohakhannn.github.io/To-Do-List-App/
 
 ## How to run it
 1. Clone or download this repository
